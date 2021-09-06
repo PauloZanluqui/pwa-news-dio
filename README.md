@@ -1,31 +1,13 @@
 # This repository show an example of the a PWA to read news.
 
-Live code to [Digital Innovation One](https://digitalinnovation.one/)
-
-Organized at **07/21/2020 at 8 p.m (Brazil)**
-
 ![PWA](./docs/finished.png)
 
 
 ### Link to access the application: [PWA NEWS DIO](https://pwa-news-dio.netlify.app/)
 
-### API used in this POC: [API](https://github.com/Tautorn/pwa-news-api)
+### API used in this POC: [API](https://github.com/PauloZanluqui/pwa-news-api)
 
 ### Slides used in this lecture:  [Slides PWA News](./docs/pwa.pdf)
-
-### Important links:
-
-- PWA created to monitoring Covid19 around the world
-[Covid19](https://covid19pwa.netlify.app/)
-
-- Who's use PWA [https://www.pwastats.com/](https://www.pwastats.com/)
-
-- Tool to turn your website in a PWA. Quickly and easily
-[https://www.pwabuilder.com/](https://www.pwabuilder.com/)
-
-- Site to create your PWA manifest
-[https://app-manifest.firebaseapp.com/](https://app-manifest.firebaseapp.com/)
-
 
 
 ### References
